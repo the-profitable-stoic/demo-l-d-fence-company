@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "L & D Fence Company",
+    "phone": "19154011986",
+    "category": "fencing",
+    "city": "El Paso",
+    "state": "TX"
+  },
+  "design": {
+    "preset": {
+      "id": "fencing-red-charge",
+      "categoryGroup": "fencing",
+      "name": "Red Charge",
+      "recipeFile": "fencing/red-charge.astro",
+      "colors": {
+        "primary": "#78350F",
+        "primaryDark": "#451A03",
+        "primaryLight": "#ddcdc3",
+        "secondary": "#6c300e",
+        "accent": "#92400E",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#78350F",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "fencing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "El Paso's Trusted Fence Experts",
+      "heroSubline": "Protecting your property with quality fencing solutions. Serving El Paso and surrounding communities.",
+      "aboutTitle": "Your Local Fencing Partner",
+      "aboutText": [
+        "L & D Fence Company started with a simple goal: to provide reliable and durable fencing solutions to our El Paso neighbors. We understand the unique challenges our desert climate presents, and we're committed to building fences that last.",
+        "Our approach is straightforward: quality materials, expert craftsmanship, and clear communication. We believe in doing the job right the first time, ensuring your complete satisfaction. We treat every project, big or small, with the same level of dedication and attention to detail.",
+        "As a local El Paso business, we're invested in our community. We source materials locally whenever possible and strive to build lasting relationships with our customers. We're proud to contribute to the safety and beauty of our neighborhoods."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand El Paso's unique climate and housing styles."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We use durable materials built to withstand the desert sun."
+        },
+        {
+          "title": "Professional Installation",
+          "description": "Our experienced team ensures precise and secure installation."
+        },
+        {
+          "title": "Customer Satisfaction",
+          "description": "We're committed to exceeding your expectations on every project."
+        }
+      ],
+      "ctaHeadline": "Get a Free Fence Estimate",
+      "ctaSubline": "Protect your property and enhance its value. Contact us today for a personalized quote."
+    },
+    "services": [
+      {
+        "slug": "wood-fencing",
+        "name": "Wood Fencing",
+        "shortDescription": "Classic wood fencing for privacy, security, and natural beauty.",
+        "description": "Wood fencing offers a timeless aesthetic and versatile design options for El Paso homes. L & D Fence Company specializes in crafting sturdy and attractive wood fences that complement the Southwestern landscape. We offer a variety of wood types, including pressure-treated pine and cedar, known for their durability and resistance to the elements. \n\nOur team will work with you to design a wood fence that meets your specific needs and preferences, whether you're seeking privacy, security, or simply a decorative boundary. We handle everything from post setting and panel installation to staining and sealing, ensuring a long-lasting and beautiful finish. Given El Paso's dry climate, we recommend regular maintenance to protect your wood fence from cracking and fading. \n\nChoose from various styles, including traditional picket fences, privacy fences with solid panels, or shadowbox fences that offer both privacy and airflow. We can also customize your wood fence with decorative accents, such as post caps and lattice tops, to enhance its curb appeal.",
+        "process": [
+          "Step 1: Consultation and Design – We discuss your needs and design preferences.",
+          "Step 2: Material Selection – Choose the wood type and style that best suits your property.",
+          "Step 3: Professional Installation – Our team ensures precise and secure installation.",
+          "Step 4: Finishing and Sealing – We protect your fence with high-quality stains and sealants."
+        ],
+        "benefits": [
+          "Enhanced Privacy",
+          "Increased Security",
+          "Natural Beauty",
+          "Customizable Design"
+        ],
+        "faq": [
+          {
+            "question": "How long will a wood fence last in El Paso's climate?",
+            "answer": "With proper maintenance and sealing, a wood fence can last 10-15 years in El Paso's dry climate."
+          },
+          {
+            "question": "What type of wood is best for fencing in El Paso?",
+            "answer": "Pressure-treated pine and cedar are both excellent choices due to their resistance to rot and insects."
+          },
+          {
+            "question": "Do you offer staining and sealing services?",
+            "answer": "Yes, we provide comprehensive staining and sealing services to protect your wood fence from the elements and enhance its appearance."
+          }
+        ]
+      },
+      {
+        "slug": "chain-link-fencing",
+        "name": "Chain Link Fencing",
+        "shortDescription": "Affordable and durable chain link fencing for security and containment.",
+        "description": "Chain link fencing is a practical and cost-effective solution for securing your property in El Paso. L & D Fence Company offers high-quality chain link fences that provide reliable protection without compromising visibility. Ideal for residential, commercial, and industrial applications, chain link fences are known for their durability and low maintenance. \n\nWe offer a variety of chain link options, including different gauges of wire and mesh sizes, to suit your specific needs. You can also choose from galvanized or vinyl-coated chain link, with vinyl coating providing added protection against rust and corrosion, as well as a more aesthetically pleasing appearance. Our experienced team ensures proper installation, including sturdy post setting and secure mesh attachment, to withstand the strong winds common in the El Paso area. \n\nChain link fences are an excellent choice for pet containment, creating secure play areas for children, or protecting commercial properties. We can also add privacy slats to your chain link fence for increased privacy and security.",
+        "process": [
+          "Step 1: Site Assessment – We evaluate your property and determine the optimal fence placement.",
+          "Step 2: Material Selection – Choose the gauge, mesh size, and coating that best suits your needs.",
+          "Step 3: Professional Installation – Our team installs your chain link fence quickly and efficiently.",
+          "Step 4: Quality Inspection – We ensure your fence meets our high standards for quality and durability."
+        ],
+        "benefits": [
+          "Affordable Security",
+          "Durable and Low Maintenance",
+          "Versatile Applications",
+          "Clear Visibility"
+        ],
+        "faq": [
+          {
+            "question": "How long does chain link fencing last?",
+            "answer": "Chain link fencing can last for decades with minimal maintenance, especially with vinyl coating."
+          },
+          {
+            "question": "Can I add privacy to a chain link fence?",
+            "answer": "Yes, we offer privacy slats in various colors and materials to enhance the privacy of your chain link fence."
+          },
+          {
+            "question": "Is chain link fencing suitable for pet containment?",
+            "answer": "Absolutely! Chain link fencing is a popular and effective choice for keeping pets safe and secure within your property."
+          }
+        ]
+      },
+      {
+        "slug": "wrought-iron-fencing",
+        "name": "Wrought Iron Fencing",
+        "shortDescription": "Elegant wrought iron fencing for security, prestige, and timeless style.",
+        "description": "Wrought iron fencing adds a touch of elegance and sophistication to any El Paso property. L & D Fence Company specializes in designing and installing custom wrought iron fences that enhance your home's curb appeal and provide lasting security. Our skilled craftsmen create intricate designs that reflect your personal style and complement your property's architecture. \n\nWrought iron fences are known for their strength and durability, providing a secure barrier against intruders. We use high-quality materials and expert welding techniques to ensure your wrought iron fence stands the test of time. Given El Paso's dry climate, wrought iron requires periodic maintenance to prevent rust and corrosion. We offer painting and powder coating services to protect your fence and keep it looking its best. \n\nWrought iron fences can be customized with a variety of decorative elements, such as scrolls, finials, and gates. They are an excellent choice for enhancing the beauty of gardens, patios, and pool areas. We work closely with you to create a unique and stunning wrought iron fence that adds value and prestige to your property.",
+        "process": [
+          "Step 1: Custom Design – We collaborate with you to create a unique wrought iron fence design.",
+          "Step 2: Fabrication – Our skilled craftsmen meticulously fabricate your fence to the highest standards.",
+          "Step 3: Professional Installation – We ensure precise and secure installation, paying attention to every detail.",
+          "Step 4: Finishing and Coating – We protect your fence with durable paint or powder coating."
+        ],
+        "benefits": [
+          "Enhanced Curb Appeal",
+          "Increased Security",
+          "Timeless Elegance",
+          "Customizable Designs"
+        ],
+        "faq": [
+          {
+            "question": "How often does wrought iron fencing need maintenance?",
+            "answer": "Wrought iron fencing should be inspected and repainted or powder coated every 3-5 years to prevent rust and corrosion."
+          },
+          {
+            "question": "Can I customize the design of my wrought iron fence?",
+            "answer": "Absolutely! We specialize in creating custom designs that reflect your personal style and preferences."
+          },
+          {
+            "question": "Is wrought iron fencing more expensive than other types of fencing?",
+            "answer": "Yes, wrought iron fencing is generally more expensive due to the materials and craftsmanship involved. However, it offers superior durability and aesthetic appeal."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-fencing",
+        "name": "Vinyl Fencing",
+        "shortDescription": "Low-maintenance vinyl fencing for privacy, security, and lasting beauty.",
+        "description": "Vinyl fencing is a popular choice for El Paso homeowners seeking a durable, low-maintenance, and attractive fencing solution. L & D Fence Company offers a wide selection of vinyl fencing styles and colors to complement any property. Vinyl fences are resistant to fading, cracking, and warping, making them ideal for our region's intense sun and temperature fluctuations. \n\nUnlike wood fences, vinyl fences never need painting or staining. Simply wash them with soap and water to keep them looking their best. Vinyl fences are also resistant to insects and rot, ensuring years of worry-free enjoyment. We offer a variety of vinyl fence styles, including privacy fences, picket fences, and ranch rail fences, to suit your specific needs and preferences. \n\nOur experienced team ensures professional installation, including proper post setting and secure panel attachment. Vinyl fences are an excellent choice for creating private outdoor spaces, securing pool areas, or defining property lines. We can also customize your vinyl fence with decorative accents, such as post caps and gates, to enhance its curb appeal.",
+        "process": [
+          "Step 1: Consultation and Design – We discuss your needs and design preferences.",
+          "Step 2: Material Selection – Choose the vinyl style and color that best suits your property.",
+          "Step 3: Professional Installation – Our team ensures precise and secure installation.",
+          "Step 4: Quality Inspection – We ensure your fence meets our high standards for quality and durability."
+        ],
+        "benefits": [
+          "Low Maintenance",
+          "Durable and Weather Resistant",
+          "Variety of Styles and Colors",
+          "Enhanced Privacy"
+        ],
+        "faq": [
+          {
+            "question": "How long does vinyl fencing last?",
+            "answer": "Vinyl fencing can last for 20-30 years or more with minimal maintenance."
+          },
+          {
+            "question": "Does vinyl fencing fade in the sun?",
+            "answer": "High-quality vinyl fencing is UV-resistant and will not fade significantly over time."
+          },
+          {
+            "question": "Can I paint vinyl fencing?",
+            "answer": "While it's not necessary, you can paint vinyl fencing with specialized paints designed for vinyl surfaces."
+          }
+        ]
+      },
+      {
+        "slug": "ranch-fencing",
+        "name": "Ranch Fencing",
+        "shortDescription": "Rustic ranch fencing for acreage, livestock containment, and property definition.",
+        "description": "For larger properties in and around El Paso, ranch fencing provides a practical and aesthetically pleasing solution for defining boundaries and containing livestock. L & D Fence Company specializes in installing durable and reliable ranch fencing that can withstand the demands of rural environments. We understand the importance of secure fencing for protecting your animals and property. \n\nWe offer a variety of ranch fencing options, including wood post and rail fences, wire mesh fences, and combination fences. Wood post and rail fences offer a classic and rustic look, while wire mesh fences provide added security for smaller animals. Our team will work with you to determine the best fencing solution for your specific needs and budget. \n\nWe use high-quality materials and expert installation techniques to ensure your ranch fence stands the test of time. We also offer gate installation services for easy access to your property. Ranch fencing is an essential investment for any property owner with acreage, providing both functionality and aesthetic appeal in the El Paso landscape.",
+        "process": [
+          "Step 1: Site Assessment – We evaluate your property and determine the optimal fence placement.",
+          "Step 2: Material Selection – Choose the fencing type and materials that best suit your needs.",
+          "Step 3: Professional Installation – Our team installs your ranch fence with precision and care.",
+          "Step 4: Quality Inspection – We ensure your fence meets our high standards for quality and durability."
+        ],
+        "benefits": [
+          "Property Definition",
+          "Livestock Containment",
+          "Rustic Aesthetic",
+          "Increased Security"
+        ],
+        "faq": [
+          {
+            "question": "What type of fencing is best for horses?",
+            "answer": "Wood post and rail fences or wire mesh fences with top rails are excellent choices for horse containment."
+          },
+          {
+            "question": "How far apart should fence posts be?",
+            "answer": "Fence posts should typically be spaced 8-12 feet apart for optimal stability."
+          },
+          {
+            "question": "Do you offer gate installation services?",
+            "answer": "Yes, we offer gate installation services for all types of ranch fencing."
+          }
+        ]
+      },
+      {
+        "slug": "fence-repair",
+        "name": "Fence Repair",
+        "shortDescription": "Reliable fence repair services to restore the security and beauty of your fence.",
+        "description": "Even the most durable fences can suffer damage from weather, accidents, or wear and tear. L & D Fence Company offers comprehensive fence repair services to restore the security and beauty of your existing fence. We understand the importance of a well-maintained fence for protecting your property and enhancing its curb appeal. \n\nOur experienced team can repair all types of fences, including wood, chain link, wrought iron, and vinyl. We handle everything from replacing broken posts and panels to repairing damaged gates and latches. We use high-quality materials and expert techniques to ensure your fence is restored to its original condition. \n\nWe offer prompt and reliable service, and we're committed to providing cost-effective solutions that meet your needs. Don't let a damaged fence compromise your property's security or appearance. Contact L & D Fence Company for professional fence repair services in El Paso. We address common issues such as leaning fences due to El Paso's dry soil conditions, damage from strong winds common during monsoon season, and corrosion from prolonged sun exposure.",
+        "process": [
+          "Step 1: Damage Assessment – We inspect your fence and identify the necessary repairs.",
+          "Step 2: Material Procurement – We source high-quality materials to match your existing fence.",
+          "Step 3: Professional Repair – Our team performs the necessary repairs quickly and efficiently.",
+          "Step 4: Quality Inspection – We ensure your fence is restored to its original condition."
+        ],
+        "benefits": [
+          "Enhanced Security",
+          "Restored Beauty",
+          "Cost-Effective Solutions",
+          "Prompt and Reliable Service"
+        ],
+        "faq": [
+          {
+            "question": "How much does fence repair cost?",
+            "answer": "The cost of fence repair depends on the extent of the damage and the type of fence. Contact us for a free estimate."
+          },
+          {
+            "question": "Can you repair a leaning fence?",
+            "answer": "Yes, we can repair leaning fences by replacing broken posts and ensuring proper post setting."
+          },
+          {
+            "question": "Do you offer emergency fence repair services?",
+            "answer": "Yes, we offer emergency fence repair services for urgent situations."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "El Paso",
+        "slug": "el-paso-tx",
+        "state": "TX",
+        "content": "L & D Fence Company is proud to offer comprehensive fencing solutions to the residents and businesses of El Paso, Texas. With a commitment to quality craftsmanship and exceptional customer service, we provide a wide range of fencing options to meet your specific needs and enhance the security and beauty of your property.\n\nWhether you're looking for a classic wood fence, a durable chain-link fence, a stylish wrought iron fence, or a low-maintenance vinyl fence, our experienced team will work closely with you to design and install the perfect fence for your El Paso home or business. We understand the unique needs of El Paso property owners and are dedicated to providing top-notch fencing services that exceed your expectations. We are fully licensed and insured, and we offer free consultations and estimates.",
+        "localContext": "El Paso, a vibrant city nestled on the border, is known for its unique blend of cultures and stunning desert landscapes. L&D Fence Company understands the stylistic preferences common in El Paso neighborhoods and incorporates them into our fence designs.",
+        "nearbyAreas": [
+          "Anthony",
+          "Canutillo",
+          "Socorro"
+        ]
+      },
+      {
+        "city": "Anthony",
+        "slug": "anthony-tx",
+        "state": "TX",
+        "content": "L & D Fence Company extends its professional fencing services to Anthony, Texas, providing reliable and aesthetically pleasing fencing solutions for residential and commercial properties. We understand the importance of a secure and well-maintained fence, and we are dedicated to delivering exceptional results.\n\nOur team of skilled fence installers is equipped to handle a variety of fencing projects, from privacy fences and security fences to decorative fences and agricultural fences. We use only high-quality materials and proven techniques to ensure that your fence is built to last and withstand the unique climate of Anthony. L & D Fence Company is committed to providing affordable and dependable fencing services to the Anthony community.",
+        "localContext": "Anthony, a charming town near the New Mexico border, boasts a close-knit community. L&D Fence Company provides fencing that complements the town's welcoming atmosphere.",
+        "nearbyAreas": [
+          "El Paso",
+          "Canutillo",
+          "Sunland Park, NM"
+        ]
+      },
+      {
+        "city": "Canutillo",
+        "slug": "canutillo-tx",
+        "state": "TX",
+        "content": "L & D Fence Company is pleased to offer its expert fencing services to the residents and businesses of Canutillo, Texas. We are committed to providing high-quality fencing solutions that enhance the security, privacy, and aesthetic appeal of your property. Our team of experienced fence installers is dedicated to delivering exceptional workmanship and outstanding customer service.\n\nWhether you need a new fence installed, an existing fence repaired, or a custom fence designed to your exact specifications, L & D Fence Company has the expertise and resources to meet your needs. We offer a wide selection of fencing materials, including wood, chain-link, wrought iron, and vinyl, to suit your style and budget. We pride ourselves on being a trusted fencing provider in the Canutillo area.",
+        "localContext": "Canutillo is a small town with a rich agricultural history. L&D Fence Company can provide fencing solutions that suit both residential and rural properties alike.",
+        "nearbyAreas": [
+          "El Paso",
+          "Anthony",
+          "Vinton"
+        ]
+      },
+      {
+        "city": "Socorro",
+        "slug": "socorro-tx",
+        "state": "TX",
+        "content": "L & D Fence Company proudly serves the community of Socorro, Texas, providing top-notch fencing solutions for homes and businesses alike. We understand the importance of a reliable and visually appealing fence, and we are dedicated to delivering exceptional results that meet your specific needs.\n\nOur team of skilled fence installers has years of experience in the industry and is equipped to handle any fencing project, big or small. From privacy fences and security fences to decorative fences and agricultural fences, we offer a wide range of options to choose from. We use only the highest quality materials and proven techniques to ensure that your fence is built to last and withstand the elements. We offer free on-site consultations to discuss your needs and provide you with a detailed estimate.",
+        "localContext": "Socorro is a historic town with a strong sense of community. L&D Fence Company is dedicated to helping residents protect their properties with high-quality, durable fencing.",
+        "nearbyAreas": [
+          "El Paso",
+          "Clint",
+          "Horizon City"
+        ]
+      },
+      {
+        "city": "Clint",
+        "slug": "clint-tx",
+        "state": "TX",
+        "content": "L & D Fence Company is committed to providing the residents and businesses of Clint, Texas with exceptional fencing services. We understand the importance of having a secure and aesthetically pleasing fence, and we are dedicated to delivering top-notch results that exceed your expectations.\n\nOur team of experienced fence installers is equipped to handle a wide range of fencing projects, from new installations to repairs and replacements. We offer a variety of fencing materials to choose from, including wood, chain-link, wrought iron, and vinyl, and we can customize your fence to meet your specific needs and preferences. We take pride in our workmanship and are committed to providing exceptional customer service.",
+        "localContext": "Clint, a town with deep roots in agriculture, requires fencing solutions that can withstand the demands of rural life. L&D Fence Company is ready to provide the fencing you need.",
+        "nearbyAreas": [
+          "Socorro",
+          "Horizon City",
+          "San Elizario"
+        ]
+      },
+      {
+        "city": "Horizon City",
+        "slug": "horizon-city-tx",
+        "state": "TX",
+        "content": "L & D Fence Company is proud to offer comprehensive fencing services to the growing community of Horizon City, Texas. We understand the importance of a secure and well-maintained fence for both residential and commercial properties. Our commitment to quality craftsmanship and exceptional customer service ensures that you receive the best possible fencing solutions.\n\nWhether you're looking for a privacy fence to create a secluded backyard oasis, a security fence to protect your property, or a decorative fence to enhance your curb appeal, our experienced team can help. We offer a wide range of fencing materials, including wood, chain-link, wrought iron, and vinyl, to suit your style and budget. L&D Fence Company is your reliable partner for all your fencing needs in Horizon City.",
+        "localContext": "Horizon City is a rapidly developing suburb of El Paso, Texas. L&D Fence Company's fencing solutions are designed to meet the needs of growing families and businesses in the area.",
+        "nearbyAreas": [
+          "Socorro",
+          "Clint",
+          "El Paso"
+        ]
+      },
+      {
+        "city": "San Elizario",
+        "slug": "san-elizario-tx",
+        "state": "TX",
+        "content": "L & D Fence Company extends its expert fencing services to San Elizario, Texas, providing reliable and aesthetically pleasing fencing solutions for residential and commercial properties. We understand the importance of a secure and well-maintained fence, and we are dedicated to delivering exceptional results.\n\nOur team of skilled fence installers is equipped to handle a variety of fencing projects, from privacy fences and security fences to decorative fences and agricultural fences. We use only high-quality materials and proven techniques to ensure that your fence is built to last and withstand the unique climate of San Elizario. L & D Fence Company is committed to providing affordable and dependable fencing services to the San Elizario community.",
+        "localContext": "San Elizario, rich in history and culture, has a distinct architectural style. L & D Fence Company offers fencing options that complement the town's unique charm.",
+        "nearbyAreas": [
+          "Clint",
+          "Socorro",
+          "Fabens"
+        ]
+      },
+      {
+        "city": "Fabens",
+        "slug": "fabens-tx",
+        "state": "TX",
+        "content": "L & D Fence Company is pleased to offer its expert fencing services to the residents and businesses of Fabens, Texas. We are committed to providing high-quality fencing solutions that enhance the security, privacy, and aesthetic appeal of your property. Our team of experienced fence installers is dedicated to delivering exceptional workmanship and outstanding customer service.\n\nWhether you need a new fence installed, an existing fence repaired, or a custom fence designed to your exact specifications, L & D Fence Company has the expertise and resources to meet your needs. We offer a wide selection of fencing materials, including wood, chain-link, wrought iron, and vinyl, to suit your style and budget. We pride ourselves on being a trusted fencing provider in the Fabens area.",
+        "localContext": "Fabens, a town with strong ties to agriculture, requires durable and reliable fencing solutions. L & D Fence Company is equipped to handle all your fencing needs.",
+        "nearbyAreas": [
+          "San Elizario",
+          "Tornillo",
+          "Clint"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Wood Fencing",
+        "text": "L & D Fence Company did an amazing job installing our new wood fence. The installers were professional, efficient, and the fence looks beautiful. It really adds privacy to our backyard in Kern Place. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David S.",
+        "rating": 4,
+        "service": "Chain Link Fencing",
+        "text": "We needed a chain link fence for our commercial property, and L & D Fence Company provided a quick and affordable solution. The fence is sturdy and secure, and the installation was completed on time. There was a small snag with the gate latch, but they came back and fixed it promptly.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Jessica R.",
+        "rating": 5,
+        "service": "Wrought Iron Fencing",
+        "text": "The wrought iron fence L & D Fence Company installed is absolutely stunning! It adds so much character to our home in Sunset Heights. The craftsmanship is excellent, and the team was a pleasure to work with. It was a bit of an investment, but well worth it.",
+        "date": "2024-09-01"
+      },
+      {
+        "name": "Robert K.",
+        "rating": 5,
+        "service": "Vinyl Fencing",
+        "text": "I'm so happy with our new vinyl fence! It's low-maintenance and looks great. The team at L & D Fence Company was very helpful in choosing the right style for our needs. They installed it quickly and professionally. A great improvement to our Upper Valley home.",
+        "date": "2024-07-10"
+      },
+      {
+        "name": "Alicia M.",
+        "rating": 4,
+        "service": "Fence Repair",
+        "text": "L & D Fence Company repaired our damaged wood fence after a storm. They were quick to respond and did a great job patching up the broken sections. The price was fair, and the fence now looks as good as new.",
+        "date": "2024-05-05"
+      },
+      {
+        "name": "Juan L.",
+        "rating": 5,
+        "service": "Chain Link Fencing",
+        "text": "Great experience with L & D Fence Company. Needed a simple chain link fence to keep my dogs in. They were fast, friendly, and the price was right. No complaints!",
+        "date": "2024-04-12"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "L & D Fence Company | El Paso, TX",
+        "description": "El Paso's trusted fence company. Quality fencing solutions for residential and commercial properties. Free estimates!"
+      },
+      "about": {
+        "title": "About L & D Fence Company",
+        "description": "Learn about L & D Fence Company in El Paso, TX. Our commitment to quality, service, and community."
+      },
+      "services": {
+        "title": "Fencing Services | El Paso, TX",
+        "description": "L & D Fence Company offers wood, chain link, wrought iron, & vinyl fencing in El Paso. Get a free quote!"
+      },
+      "contact": {
+        "title": "Contact L & D Fence Company",
+        "description": "Contact L & D Fence Company for fence installation and repair services in El Paso, TX. Get in touch today!"
+      },
+      "reviews": {
+        "title": "L & D Fence Company Reviews",
+        "description": "Read reviews for L & D Fence Company in El Paso, TX. See what our satisfied customers are saying!"
+      },
+      "service-areas": {
+        "title": "Service Areas | L & D Fence Company",
+        "description": "L & D Fence Company provides fencing services in El Paso and surrounding areas. Find out if we serve your location."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "wood-fencing": "/images/service-wood-fencing.webp",
+      "chain-link-fencing": "/images/service-chain-link-fencing.webp",
+      "wrought-iron-fencing": "/images/service-wrought-iron-fencing.webp",
+      "vinyl-fencing": "/images/service-vinyl-fencing.webp",
+      "ranch-fencing": "/images/service-ranch-fencing.webp",
+      "fence-repair": "/images/service-fence-repair.webp"
+    },
+    "servicesResponsive": {
+      "wood-fencing": {
+        "src": "/images/service-wood-fencing.webp",
+        "srcset": "/images/service-wood-fencing-400w.webp 400w, /images/service-wood-fencing-800w.webp 800w, /images/service-wood-fencing-1200w.webp 1200w, /images/service-wood-fencing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "chain-link-fencing": {
+        "src": "/images/service-chain-link-fencing.webp",
+        "srcset": "/images/service-chain-link-fencing-400w.webp 400w, /images/service-chain-link-fencing-800w.webp 800w, /images/service-chain-link-fencing-1200w.webp 1200w, /images/service-chain-link-fencing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "wrought-iron-fencing": {
+        "src": "/images/service-wrought-iron-fencing.webp",
+        "srcset": "/images/service-wrought-iron-fencing-400w.webp 400w, /images/service-wrought-iron-fencing-800w.webp 800w, /images/service-wrought-iron-fencing-1200w.webp 1200w, /images/service-wrought-iron-fencing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-fencing": {
+        "src": "/images/service-vinyl-fencing.webp",
+        "srcset": "/images/service-vinyl-fencing-400w.webp 400w, /images/service-vinyl-fencing-800w.webp 800w, /images/service-vinyl-fencing-1200w.webp 1200w, /images/service-vinyl-fencing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "ranch-fencing": {
+        "src": "/images/service-ranch-fencing.webp",
+        "srcset": "/images/service-ranch-fencing-400w.webp 400w, /images/service-ranch-fencing-800w.webp 800w, /images/service-ranch-fencing-1200w.webp 1200w, /images/service-ranch-fencing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fence-repair": {
+        "src": "/images/service-fence-repair.webp",
+        "srcset": "/images/service-fence-repair-400w.webp 400w, /images/service-fence-repair-800w.webp 800w, /images/service-fence-repair-1200w.webp 1200w, /images/service-fence-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-l-d-fence-company.dream-surge.com/sitemap-index.xml
